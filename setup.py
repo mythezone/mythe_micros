@@ -2,7 +2,7 @@ from setuptools import setup,find_packages
 
 setup(
     name= "mythe_micros",
-    version = "0.0.0",
+    version = "0.0.1",
     keywords=("pip","micro","service"),
     description=("Easy Micro Service Library"),
     long_description=("To be fill."),
